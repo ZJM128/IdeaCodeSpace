@@ -1,6 +1,8 @@
 package Search;
 
+
 import org.junit.Test;
+
 /*
 插值查找
 *@Description:Ⅰ,对于数据量大.关键字分布比较均匀的查找表来说,速度更快
