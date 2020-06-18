@@ -66,6 +66,10 @@ class ArrBinaryTree{
         }
     }
 
+    /**
+     * 后序
+     * @param index
+     */
     public void lastOrder(int index){
         if(arr!=null && 2*index+1<arr.length){
             lastOrder(2*index+1);
