@@ -8,11 +8,11 @@ import java.util.Arrays;
 */
 public class InsertSort {
     public static void main(String []args){
-        int[] arr={5,2,3,9,6};
+        int[] arr={3,4,1,9,6};
         //insertSort(arr);
 
         //insertSort3(arr);
-        insertSort5(arr);
+        insetSort1(arr);
         System.out.println(Arrays.toString(arr));
     }
 
@@ -41,89 +41,29 @@ public class InsertSort {
             middleNumber=arr[i];
             middleIndex=i-1;
             while(middleIndex>=0 &&middleNumber<arr[middleIndex]){
-                arr[i]=arr[middleIndex];
+                arr[middleIndex+1]=arr[middleIndex];
                 middleIndex--;
             }
 
              if(middleIndex + 1!=i) {
                  arr[middleIndex + 1] = middleNumber;
              }
-
-
         }
     }
 
-    public static void insertSort2(int []arr){
-
-        int middleNumber=0;
-        int middleIndex=0;
-
+    public  static void insetSort1(int[]arr){
         for(int i=1;i<arr.length;i++){
-             middleNumber=arr[i];
-             middleIndex=i-1;
-             while(middleIndex>=0 && middleNumber<arr[middleIndex]){
-                    arr[i]=arr[middleIndex];
-                    middleIndex--;
-             }
-
-             if(middleIndex+1!=i){
-                 arr[middleIndex+1]=middleNumber;
-             }
-
-        }
-
-    }
-
-    public static void insertSort3(int []arr){
-
-        int middleNum=0;
-        int middleIndex=0;
-        for(int i=1;i<arr.length;i++){
-
-            middleNum=arr[i];
-            middleIndex=i-1;
-            while(middleIndex>=0 && middleNum<arr[middleIndex]){
-                arr[i]=arr[middleIndex];
-                middleIndex--;
+            int comparatorNun=arr[i];
+            int maxIndex=i-1;// 有序数列的最大的值
+            while(maxIndex>=0 && comparatorNun<arr[maxIndex]){
+                arr[maxIndex+1]=arr[maxIndex];
+                maxIndex--;
             }
 
-            if(middleIndex+1!=i){
-                arr[middleIndex+1]=middleNum;
+            if(maxIndex+1!=i){
+                arr[maxIndex+1]=comparatorNun;
             }
         }
-    }
-
-    public static void insertSort4(int []arr){
-        int middleN=0;
-        int middleI=0;
-        for(int i=1;i<arr.length;i++){
-            middleN=arr[i];
-            middleI=i-1;
-            while(middleI>=0 && middleN<arr[middleI] ){
-                arr[i]=arr[middleI];
-                middleI--;
-            }
-            if(middleI+1!=i){
-                arr[middleI+1]=middleN;
-            }
-        }
-    }
-
-    public static void insertSort5(int []arr){
-         int num=0;
-         int index=0;
-         for(int i=1;i<arr.length;i++){
-             num=arr[i];
-             index=i-1;
-             while(index>=0 && num<arr[index]){
-                 arr[i]=arr[index];
-                 index--;
-             }
-
-             if(index+1!=i){
-                 arr[index+1]=num;
-             }
-         }
     }
 
 }
