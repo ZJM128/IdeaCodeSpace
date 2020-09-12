@@ -1,5 +1,6 @@
 package day10.test;
 
+
 import org.junit.Test;
 
 public class AnimalTest {

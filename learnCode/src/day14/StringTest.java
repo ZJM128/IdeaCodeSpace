@@ -1,9 +1,10 @@
 package day14;
 
-import org.junit.Test;
+
 
 public class StringTest {
-    @Test
+
+
     public void test01(){
 
         StringBuffer stringBuffer = new StringBuffer("12365");
@@ -44,7 +45,7 @@ public class StringTest {
         System.out.println(stringBuffer.deleteCharAt(1));
         System.out.println("原来的"+stringBuffer.toString());
     }
-    @Test
+
     public void test03(){
         String str="123";
         String substring = str.substring(1);

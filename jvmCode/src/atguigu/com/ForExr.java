@@ -1,6 +1,6 @@
 package atguigu.com;
 
-import org.junit.Test;
+
 
 /**
  * for(①;②;③){
@@ -27,7 +27,7 @@ public class ForExr {
      * 另外在每个3的倍数行上打印出“foo”,在每个5的倍数行上打印“biz”,
      * 在每个7的倍数行上打印输出“baz”。
      */
-    @Test
+
     public void forText1() {
         for (int i = 0; i <= 150; i++) {
             System.out.print(i);
@@ -46,7 +46,7 @@ public class ForExr {
         }
     }
 
-    @Test
+
     public void forText2() {
 //        for(int i=0;i<20;i++){
 //            System.out.println("Hello word");
@@ -64,7 +64,7 @@ public class ForExr {
      * 位数，其各个位上数字立方和等于其本身。
      * 例如： 153 = 1*1*1 + 3*3*3 + 5*5*5
      */
-    @Test
+
     public void forText3() {
         int sum = 0;
         for (int i = 1; i <= 100; i++) {
@@ -116,7 +116,7 @@ public class ForExr {
         } while (i < 10);
     }
 
-    @Test
+
     public void forText4() {
 
         int count = 0;

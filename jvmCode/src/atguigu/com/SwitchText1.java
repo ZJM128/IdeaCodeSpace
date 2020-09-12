@@ -1,6 +1,4 @@
 package atguigu.com;
-import org.junit.Test;
-
 import java.util.Scanner;
 public class SwitchText1 {
     public static void main(String[]args){
@@ -84,7 +82,7 @@ public class SwitchText1 {
        }
     }
 
-    @Test
+
     public void checkDay(){
         Scanner sc=new Scanner(System.in);
         int day =sc.nextInt();

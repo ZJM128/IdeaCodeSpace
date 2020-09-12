@@ -1,6 +1,6 @@
 package atguigu.com;
 
-import org.junit.Test;
+
 
 import java.util.Scanner;
 
@@ -55,7 +55,7 @@ public class TwoArr {
 
     }
 
-    @Test
+
     public void SwitchText(){
         int a=2;
         switch (a){
@@ -69,7 +69,7 @@ public class TwoArr {
 
         // 不匹配 1 3
     }
-    @Test
+
     public void Iftext(){
         boolean g=true;
         int a=2,b=4;
@@ -100,7 +100,6 @@ public class TwoArr {
         }
     }
 
-    @Test
     public void iftext2(){
         Scanner sc=new Scanner(System.in);
 

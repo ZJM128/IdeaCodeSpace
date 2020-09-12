@@ -1,6 +1,6 @@
 package atguigu.day4;
 
-import org.junit.Test;
+
 
 /**
  * 编写程序一，打印1-100之间13的倍数，使用continue语句
@@ -52,7 +52,7 @@ class BreakOrContinue {
 
     }
 
-    @Test
+
     public void breakTest() {
         // break的作用就是结束当前的循环
         /*for(int i=1;i<10;i++){
@@ -94,7 +94,7 @@ class BreakOrContinue {
 
     }
 
-    @Test
+
     public void continueText() {
         // continue结束本次循环
         /*for(int i=1;i<10;i++){

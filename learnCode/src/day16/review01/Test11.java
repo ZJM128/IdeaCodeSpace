@@ -5,9 +5,3 @@ public abstract class Test11 {
     public void say(){}
     public abstract void sleep();
 }
-class Test{
-    public static void main(String[] args) {
-
-    }
-
-}

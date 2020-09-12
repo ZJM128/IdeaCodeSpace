@@ -37,7 +37,7 @@ public class TeamService {
         if("VOCATIN".equals(programmer.getStatus().getName())){
             throw new EmployeeException("该员正在休假，无法添加");
         }else if("BUSY".equals(programmer.getStatus().getName())){
-            throw new EmployeeException("该员工是已经是其他团队成员");
+            throw new EmployeeException("该员工是已经是团队成员");
         }
         boolean flag=true;
         for(int i=0;i<total;i++){

@@ -1,0 +1,4 @@
+D:\IdeaCodeSpace\MyFlume\src\main\java\com\atguigu\source\MySource.java
+D:\IdeaCodeSpace\MyFlume\src\main\java\com\atguigu\sink\MySink.java
+D:\IdeaCodeSpace\MyFlume\src\main\java\com\atguigu\interceptor\TypeInterceptor.java
+D:\IdeaCodeSpace\MyFlume\src\main\java\com\atguigu\interceptor\FlumeKafkaInterceptor.java

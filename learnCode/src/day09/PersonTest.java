@@ -1,6 +1,8 @@
 package day09;
 
+
 import org.junit.Test;
+
 /*
 *@Description:①父类的私有属性子类是不能直接操作的,可以通过get或者set方法操作
 *             ②子类可以继承父类的公共方法,但是子类也可以重写该方法

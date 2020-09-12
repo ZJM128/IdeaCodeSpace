@@ -49,7 +49,7 @@ public class SparseArr {
         int sparseArrRow = sparseArr.length;
         int spareArrCol = sparseArr[0].length;
        try {
-            outputStream = new FileOutputStream(file,false);
+            outputStream = new FileOutputStream(file);
 
             for (int i = 0; i < sparseArrRow; i++) {
                 for (int j = 0; j < spareArrCol; j++) {

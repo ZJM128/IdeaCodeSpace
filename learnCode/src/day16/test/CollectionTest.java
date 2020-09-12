@@ -13,7 +13,7 @@ public class CollectionTest {
         // 添加元素到集合中
         collection.add("BB");
         collection.add(new String("AA"));
-        collection.add(new Person("李白",16));
+        collection.add(new Person1("李白",16));
 
         collection.add(123);//自动装箱
 
@@ -33,7 +33,7 @@ public class CollectionTest {
         boolean aa = collection.contains(new String("AA"));
         //System.out.println(aa);
 
-        boolean flag = collection.contains(new Person("李白", 16));
+        boolean flag = collection.contains(new Person1("李白", 16));
         //System.out.println(flag);
         Collection collection1=new ArrayList();
         Collection list1 = Arrays.asList("AA", "BB1");
@@ -63,11 +63,11 @@ public class CollectionTest {
     }
 
 }
-class Person{
+class Person1{
     private String name;
     private  int age;
 
-    public Person(String name, int age) {
+    public Person1(String name, int age) {
         this.name = name;
         this.age = age;
     }
@@ -76,9 +76,9 @@ class Person{
     public boolean equals(Object o) {
         if (this == o) return true;
         if (o == null || getClass() != o.getClass()) return false;
-        Person person = (Person) o;
-        return age == person.age &&
-                Objects.equals(name, person.name);
+        Person1 person1 = (Person1) o;
+        return age == person1.age &&
+                Objects.equals(name, person1.name);
     }
 
     @Override

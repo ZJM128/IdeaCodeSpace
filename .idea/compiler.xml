@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="MyInterceptor" />
+        <module name="mavenCode" />
+        <module name="mapReduceProject" />
+        <module name="SparkProject" />
+        <module name="SparkSql" />
+        <module name="UDFProject" />
+        <module name="hadoop01" />
+        <module name="MyAzkaban" />
+        <module name="springboot" />
+        <module name="Mykafka" />
+        <module name="MyKafkaFlume" />
+        <module name="MyHbase" />
+        <module name="SparkStreaning" />
+        <module name="MyHBaseComrocessor" />
+        <module name="SparkCode" />
+        <module name="summerframework" />
+        <module name="scalaProject" />
+        <module name="ZookeeperCode" />
+        <module name="mavenTest" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="8">
+      <module name="hadoop01" target="1.8" />
+      <module name="mapReduceProject" target="1.8" />
+      <module name="mavenCode" target="1.8" />
+      <module name="mavenTest" target="1.8" />
+      <module name="MyAzkaban" target="1.8" />
+      <module name="MyHbase" target="1.8" />
+      <module name="MyHBaseComrocessor" target="1.8" />
+      <module name="MyInterceptor" target="1.8" />
+      <module name="Mykafka" target="1.8" />
+      <module name="MyKafkaFlume" target="1.8" />
+      <module name="scalaProject" target="1.8" />
+      <module name="SparkCode" target="1.8" />
+      <module name="SparkProject" target="1.8" />
+      <module name="SparkSql" target="1.8" />
+      <module name="SparkStreaning" target="1.8" />
+      <module name="springboot" target="1.8" />
+      <module name="summer" target="1.8" />
+      <module name="summerframework" target="1.8" />
+      <module name="UDFProject" target="1.8" />
+      <module name="ZookeeperCode" target="1.8" />
+      <module name="数仓Flume" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

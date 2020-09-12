@@ -1,6 +1,5 @@
 package atguigu.Exer;
 
-import org.junit.Test;
 
 public class Text12 {
     public static void main(String[] args) {
@@ -25,7 +24,7 @@ public class Text12 {
         }
     }
 
-    @Test
+
     public void rhomhus(){
 
         for(int i=0;i<5;i++){

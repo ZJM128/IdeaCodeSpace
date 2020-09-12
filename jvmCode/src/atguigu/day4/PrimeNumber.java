@@ -1,6 +1,6 @@
 package atguigu.day4;
 
-import org.junit.Test;
+
 
 /**
  * 求质数 除了1和本身
@@ -28,7 +28,7 @@ public class PrimeNumber {
 
     }
 
-    @Test
+
     public  void primeNumTest(){
         boolean flag=true;// 标志位
         // 因为除了1和本身 没有其他的因数 所以初始值从2开始 需要用到嵌套循环,外层控制每个数 内层控制每个因数
@@ -47,7 +47,7 @@ public class PrimeNumber {
         }
     }
 
-    @Test
+
     public void primeNumTest2(){
 
         long start=System.currentTimeMillis();
