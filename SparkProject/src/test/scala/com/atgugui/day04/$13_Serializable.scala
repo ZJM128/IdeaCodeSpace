@@ -107,7 +107,7 @@ class $13_Serializable {
 
   /**
    * Task not serializable
-   *  属性序列号
+   *  属性序列化
    *      属性必须依附于对象存在,对象是类的实例,类是对象的抽象
    *      解决:
    *          (1)类实现序列化

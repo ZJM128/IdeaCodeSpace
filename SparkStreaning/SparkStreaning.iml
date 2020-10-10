@@ -131,7 +131,6 @@
     <orderEntry type="library" name="Maven: com.google.flatbuffers:flatbuffers-java:1.9.0" level="project" />
     <orderEntry type="library" name="Maven: org.apache.orc:orc-core:1.5.10" level="project" />
     <orderEntry type="library" name="Maven: org.apache.orc:orc-shims:1.5.10" level="project" />
-    <orderEntry type="library" name="Maven: com.google.protobuf:protobuf-java:2.5.0" level="project" />
     <orderEntry type="library" name="Maven: commons-lang:commons-lang:2.6" level="project" />
     <orderEntry type="library" name="Maven: io.airlift:aircompressor:0.10" level="project" />
     <orderEntry type="library" name="Maven: org.threeten:threeten-extra:1.5.0" level="project" />
@@ -259,5 +258,11 @@
     <orderEntry type="library" name="Maven: org.apache.hive:hive-upgrade-acid:3.1.2" level="project" />
     <orderEntry type="library" name="Maven: com.fasterxml.jackson.core:jackson-core:2.10.1" level="project" />
     <orderEntry type="library" name="Maven: org.apache.spark:spark-streaming_2.12:3.0.0" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.spark:spark-streaming-kafka-0-10_2.12:3.0.0" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.spark:spark-token-provider-kafka-0-10_2.12:3.0.0" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.kafka:kafka-clients:2.4.1" level="project" />
+    <orderEntry type="library" name="Maven: com.alibaba:druid:1.1.10" level="project" />
+    <orderEntry type="library" name="Maven: mysql:mysql-connector-java:8.0.17" level="project" />
+    <orderEntry type="library" name="Maven: com.google.protobuf:protobuf-java:3.6.1" level="project" />
   </component>
 </module>

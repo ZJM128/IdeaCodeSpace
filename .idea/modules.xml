@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/MyHbase/MyHbase.iml" filepath="$PROJECT_DIR$/MyHbase/MyHbase.iml" />
       <module fileurl="file://$PROJECT_DIR$/MyFlume/MyInterceptor.iml" filepath="$PROJECT_DIR$/MyFlume/MyInterceptor.iml" />
       <module fileurl="file://$PROJECT_DIR$/MyKafkaFlume/MyKafkaFlume.iml" filepath="$PROJECT_DIR$/MyKafkaFlume/MyKafkaFlume.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyKyLin/MyKyLin.iml" filepath="$PROJECT_DIR$/MyKyLin/MyKyLin.iml" />
       <module fileurl="file://$PROJECT_DIR$/Mykafka/Mykafka.iml" filepath="$PROJECT_DIR$/Mykafka/Mykafka.iml" />
       <module fileurl="file://$PROJECT_DIR$/SparkCode/SparkCode.iml" filepath="$PROJECT_DIR$/SparkCode/SparkCode.iml" />
       <module fileurl="file://$PROJECT_DIR$/SparkProject/SparkProject.iml" filepath="$PROJECT_DIR$/SparkProject/SparkProject.iml" />

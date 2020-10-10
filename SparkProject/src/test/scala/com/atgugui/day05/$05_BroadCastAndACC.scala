@@ -26,8 +26,8 @@ import org.junit.{After, Before, Test}
  *
  *                     累加器: (需要行动算子触发)
  *                              作用： 在Job中适用于仅仅是追加操作的场景，类似MR中的计数器Counter 或 Sum求和操作！
- *                                    spark默认只提供了针对数值类型累加的累加器，可以扩展！
- *                                    SparkContext.longAccumulator() or SparkContext.doubleAccumulator()*
+ * *                                    spark默认只提供了针对数值类型累加的累加器，可以扩展！
+ * *                                    SparkContext.longAccumulator() or SparkContext.doubleAccumulator()*
  *                               方法：  add() : 累加
  *                                      value() : 获取累加的结果
  *                                      必须实现的方法： reset() : 将累加器重置归0

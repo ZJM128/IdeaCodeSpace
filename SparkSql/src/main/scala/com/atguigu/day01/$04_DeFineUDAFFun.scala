@@ -86,12 +86,9 @@ class $04_DeFineUDAFFun {
     val myAvg1 = sparkSession.udf.register("myAvg", functions.udaf(myAvg))
     val df = sparkSession.read.json("input/person.json")
     // 创建临时表
-    df.createTempView("temp")
-    // 4 调用UDAF函数
-    //sparkSession.sql("select myAvg(age) from temp").show()
-
-    //df通过DSL使用自定义UDAF
-    df.select(myAvg1()).show()
+    //df.createTempView("temp")
+    // 4 在sql语句中调用UDAF函数
+   //sparkSession.sql("select myAvg(age) from temp").show()
   }
 
 }

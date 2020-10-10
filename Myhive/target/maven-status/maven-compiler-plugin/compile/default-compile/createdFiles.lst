@@ -1,2 +1,4 @@
 com\atguigu\udf\UDFTest.class
 com\atguigu\udf\MyUDF.class
+com\atguigu\udf\MyUDF01.class
+com\atguigu\udtf\ExplodeJsonArray.class

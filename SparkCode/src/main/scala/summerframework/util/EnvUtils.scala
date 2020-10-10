@@ -1,6 +1,7 @@
 package summerframework.util
 
 import org.apache.spark.sql.SparkSession
+import org.apache.spark.streaming.{Seconds, StreamingContext}
 import org.apache.spark.{SparkConf, SparkContext}
 
 object EnvUtils {
@@ -8,6 +9,7 @@ object EnvUtils {
   // 创建一个共享数据,利用java的同享线程
   private val scLocal = new ThreadLocal[SparkContext]
   private val sparkSessionLocal = new ThreadLocal[SparkSession]
+  private val streamingContextLocal = new ThreadLocal[StreamingContext]
 
   // 获取环境
   def getEvn():SparkContext={
@@ -39,9 +41,24 @@ object EnvUtils {
         .config(warehouseDir, pathName)
         .config(conf)
         .getOrCreate()
+      sparkSessionLocal.set(session)
     }
     session
   }
+
+  /**
+   * 获取StreamingContext
+   * @return
+   */
+  def getStreamingContext: StreamingContext ={
+    var streamingContext = streamingContextLocal.get()
+    if (streamingContext==null){
+      streamingContext = new StreamingContext(new SparkConf().setMaster("local[*]").setAppName("streamingContext"), Seconds(3))
+      streamingContextLocal.set(streamingContext)
+    }
+    streamingContext
+  }
+
   // 清除对象
   def clean(): Unit ={
     // 停止环境
@@ -55,4 +72,9 @@ object EnvUtils {
     sparkSessionLocal.remove()
   }
 
+  def keepEvn(): Unit ={
+    val context = getStreamingContext
+    context.start()
+    context.awaitTermination()
+  }
 }

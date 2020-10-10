@@ -64,6 +64,9 @@ class $01_ReadAndWriterJson {
 
   }
 
+  /**
+   * json的写
+   */
   @Test
   def writerJson(): Unit ={
     val list = List(Student("lisi", 23), Student("wangwu", 33))

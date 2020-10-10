@@ -5,6 +5,7 @@ import java.net.{ServerSocket, Socket}
 import org.apache.hadoop.conf.Configuration
 import org.apache.hadoop.fs.{FileSystem, Path}
 import org.apache.spark.{SparkConf, SparkContext}
+import summerframework.util.EnvUtils.keepEvn
 import summerframework.util.{EnvUtils, PropertiesUtil}
 
 trait Application {
@@ -29,6 +30,8 @@ trait Application {
        }
      }else if(s=="sparkSql"){
        envData=EnvUtils.getSparkSession()
+     }else if(s=="sparkStreaming"){
+       envData=EnvUtils.getStreamingContext
      } else{
        throw new RuntimeException("参数传入不正确")
      }
@@ -59,6 +62,8 @@ trait Application {
       EnvUtils.clean()
     }else if (s == "sparkSql"){
       EnvUtils.cleanSparkSession()
+    }else if (s=="sparkStreaming"){
+      EnvUtils.keepEvn()
     }
   }
 }

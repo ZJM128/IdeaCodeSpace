@@ -67,7 +67,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c88aacd9-0e50-4724-9450-5c3402b872cc" name="Default Changelist" comment="">
+    <list default="true" id="c88aacd9-0e50-4724-9450-5c3402b872cc" name="Default Changelist" comment="新增">
       <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__com_alibaba_druid_1_1_10.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__com_google_protobuf_protobuf_java_3_6_1.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__mysql_mysql_connector_java_8_0_17.xml" afterDir="false" />
@@ -137,48 +137,6 @@
       <change afterPath="$PROJECT_DIR$/../SparkStreaning/src/main/scala/com/atguigu/streaming/utils/PropertiesUtil.scala" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../SparkStreaning/src/main/scala/com/atguigu/streaming/utils/RandomNumUtil.scala" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../SparkStreaning/src/main/scala/com/atguigu/streaming/utils/RandomOptions.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-logger/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-logger/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-logger/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-logger/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-logger/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-logger/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-logger/src/main/java/com/guigu/gmall/gmalllogger/GmallLoggerApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-logger/src/main/java/com/guigu/gmall/gmalllogger/controll/LoggerController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-logger/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-logger/src/main/resources/logback.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-logger/src/test/java/com/guigu/gmall/gmalllogger/GmallLoggerApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-realtime/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-realtime/src/main/resources/config.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-realtime/src/main/resources/log4j.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-realtime/src/main/scala/com/atguigu/gmall/realtime/app/DauApp.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-realtime/src/main/scala/com/atguigu/gmall/realtime/bean/StartupLog.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-realtime/src/main/scala/com/atguigu/gmall/realtime/util/ConfigUtil.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-realtime/src/main/scala/com/atguigu/gmall/realtime/util/MyKafkaUtil.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-realtime/src/main/scala/com/atguigu/gmall/realtime/util/RedisUtil.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-realtime/target/classes/com/atguigu/gmall/realtime/app/DauApp$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-realtime/target/classes/com/atguigu/gmall/realtime/app/DauApp.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-realtime/target/classes/com/atguigu/gmall/realtime/bean/StartupLog$StartupLog$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-realtime/target/classes/com/atguigu/gmall/realtime/bean/StartupLog$StartupLog.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-realtime/target/classes/com/atguigu/gmall/realtime/bean/StartupLog.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-realtime/target/classes/com/atguigu/gmall/realtime/util/ConfigUtil$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-realtime/target/classes/com/atguigu/gmall/realtime/util/ConfigUtil.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-realtime/target/classes/com/atguigu/gmall/realtime/util/MyKafkaUtil$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-realtime/target/classes/com/atguigu/gmall/realtime/util/MyKafkaUtil.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-realtime/target/classes/com/atguigu/gmall/realtime/util/RedisUtil$.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-realtime/target/classes/com/atguigu/gmall/realtime/util/RedisUtil.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-realtime/target/classes/config.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall-realtime/target/classes/log4j.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gmall_parent.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../jvmCode/out/production/IdeaCodeSpace/gmall_parent/gmall_parent.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../scalaProject/src/main/scala/com/atguigu/Day06/Test02.scala" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../scalaProject/src/main/scala/com/atguigu/Day06/test01.scala" afterDir="false" />
@@ -388,6 +346,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
@@ -405,10 +364,10 @@
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state x="549" y="32" key="CommitChangelistDialog2/0.0.2048.1112@0.0.2048.1112" timestamp="1602301417583" />
-    <state x="1251" y="384" key="FileChooserDialogImpl" timestamp="1601739453350">
+    <state x="1251" y="384" key="FileChooserDialogImpl" timestamp="1602304221758">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state x="1251" y="384" key="FileChooserDialogImpl/0.0.2048.1112@0.0.2048.1112" timestamp="1601739453350" />
+    <state x="1251" y="384" key="FileChooserDialogImpl/0.0.2048.1112@0.0.2048.1112" timestamp="1602304221758" />
     <state x="864" y="459" width="319" height="267" key="Gitee.ShareDialog" timestamp="1602301559980">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>

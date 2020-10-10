@@ -92,8 +92,20 @@ class $04_CheckPoint {
     // 从ck目录中取rdd2
     rdd2.saveAsTextFile("output")
     println("%"*20)
+    // 第二次取rdd2的数据的时候rdd2的状态已经存在了文件系统中了,可以直接取,不需要重新演算整个血缘关系
     rdd2.foreach(print)
   }
 
 
+  @Test
+  def testWordCount(): Unit ={
+    val rdd = sc.makeRDD(List("hello good", "hello good"))
+
+    val rdd1 = rdd.flatMap(line => line.split(" ").map(word => (word, 1)))
+      .reduceByKey(_ + _,2)
+    rdd1.foreach(println)
+   // println(rdd1.toDebugString)
+   // println(rdd1.partitions.length)
+
+  }
 }

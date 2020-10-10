@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="MyInterceptor" />
         <module name="mavenCode" />
+        <module name="MyKyLin" />
         <module name="mapReduceProject" />
         <module name="SparkProject" />
         <module name="SparkSql" />
@@ -38,6 +39,7 @@
       <module name="MyInterceptor" target="1.8" />
       <module name="Mykafka" target="1.8" />
       <module name="MyKafkaFlume" target="1.8" />
+      <module name="MyKyLin" target="1.8" />
       <module name="scalaProject" target="1.8" />
       <module name="SparkCode" target="1.8" />
       <module name="SparkProject" target="1.8" />

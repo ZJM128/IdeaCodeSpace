@@ -53,14 +53,14 @@ class $03_ReadAndWriterJDBC {
     properties.put("password","root")
 
     // jdbc()有三个参数(1)配置jdbc的连接 (2)要查询的表 (3)数据库的账号信息
-    val df = sc.read.jdbc("jdbc:mysql://localhost:3306/test", "user", properties)
+    val df = sc.read.jdbc("jdbc:mysql://localhost:3306/test?serverTimezone=UTC", "user01", properties)
     //df.show()
 
     // 创建临时表 用于后续的使用
     df.createTempView("user")
 
     // 可以对表进行后续的操作
-    sc.sql("select avg(age) from user").show()
+    sc.sql("select * from user").show()
 
   }
 
@@ -84,7 +84,7 @@ class $03_ReadAndWriterJDBC {
       (3)append:追加写,向输出目的目录追加文件
       (4)ignore:忽略本次写出*/
     ds.write.mode("append")
-      .jdbc("jdbc:mysql://localhost:3306/test","user01",properties)
+      .jdbc("jdbc:mysql://localhost:3306/test?serverTimezone=UTC","user01",properties)
 
 
   }

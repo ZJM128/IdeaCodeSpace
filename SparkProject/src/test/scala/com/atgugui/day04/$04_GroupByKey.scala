@@ -2,6 +2,7 @@ package com.atgugui.day04
 
 import org.apache.hadoop.conf.Configuration
 import org.apache.hadoop.fs.{FileSystem, Path}
+import org.apache.spark.rdd.RDD
 import org.apache.spark.{HashPartitioner, SparkConf, SparkContext}
 import org.junit.{After, Before, Test}
 
@@ -55,7 +56,24 @@ class $04_GroupByKey {
    // rdd3.saveAsTextFile("output2")
     //rdd4.saveAsTextFile("output3")
   }
+  @Test
+  def text(): Unit ={
+    val list = List(
+      ("a", 2), ("a", 3), ("b", 4),
+      ("b", 2), ("a", 5), ("b", 3)
+    )
+    val rdd: RDD[(String, Int)] = sc.makeRDD(list, 2)
+    val rdd1: RDD[(String, Int)] = rdd.aggregateByKey(0)(
+      (x, y) => {
+        x.max(y)
+      },
 
+      (x, y) => {
+        x + y
+      }
+    )
+    println(rdd1.collect().mkString(","))
+  }
   /**
    * wordCoount
    */

@@ -11,7 +11,6 @@ import org.junit.{After, Test}
  * 答:(1)定义函数 也可以使用匿名函数
  *    (2)注册UDF函数  sparkSession.udf.register("addAge",ageAdd _)
  *    (3)在sparkSql中使用UDF函数
- *
  * 注意:UDF函数必须要有返回值
  *
  */

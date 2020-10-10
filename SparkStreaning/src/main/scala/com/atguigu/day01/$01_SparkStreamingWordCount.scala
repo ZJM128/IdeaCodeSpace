@@ -1,10 +1,21 @@
 package com.atguigu.day01
 
 import org.apache.spark.SparkConf
+import org.apache.spark.internal.Logging
 import org.apache.spark.streaming.{Seconds, StreamingContext}
 
-
-object $01_SparkStreamingWordCount {
+/**
+ * 采集器的使用步骤:
+ *    [1]创建采集器的使用环境,依赖于sparkConf
+ *        new StreamingContext(conf,Seconds(时间周期)),
+ *        StreamingContext有两个参数:一个是SparkConf,一个是采集数据的周期,每一个周期处理一批数据
+ *    [2]通过StreamingContext获取DStream
+ *    [3]对DStream进行操作
+ *    [4]需要调用DStream的"行动"RDD
+ *    [5]开启采集器 ds.start
+ *    [6]需要阻塞当前线程,让采集器长期运行 ds.awaitTermination
+ */
+object $01_SparkStreamingWordCount extends Logging {
 
   def main(args: Array[String]): Unit = {
 
@@ -24,6 +35,7 @@ object $01_SparkStreamingWordCount {
 
     // 打印输出  如果没有print方法会报要求失败：未注册任何输出操作，因此无须执行
     result.print(1000)
+    logInfo("hello")
 
     // 启动采集器 开始计算
     ssc.start()

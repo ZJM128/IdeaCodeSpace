@@ -1,4 +1,0 @@
-(d,(CompactBuffer(),CompactBuffer(30)))
-(a,(CompactBuffer(88),CompactBuffer(2, 30)))
-(b,(CompactBuffer(95, 93),CompactBuffer(2)))
-(c,(CompactBuffer(20),CompactBuffer()))

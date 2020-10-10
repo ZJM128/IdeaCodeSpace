@@ -7,7 +7,7 @@ import org.apache.spark.{HashPartitioner, Partitioner, SparkConf, SparkContext}
 import org.junit.{After, Before, Test}
 
 /**
- * partitionBy:有什么分区器进行分区
+ * partitionBy:用什么分区器进行分区
  * 1,函数签名:
  *def partitionBy(partitioner: Partitioner): RDD[(K, V)]
  * 2,参数说明:

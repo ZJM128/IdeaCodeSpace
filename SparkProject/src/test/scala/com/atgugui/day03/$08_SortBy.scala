@@ -105,9 +105,7 @@ def sortByTest(): Unit ={
     // val result: RDD[Person] = rdd.sortBy(person => (person.name, person.age), false,1)
 
     //要求先按照名称降序降序，之后名称相同的按照年龄升序排序    K=>Tuple2
-    val result: RDD[Person] = rdd.sortBy(person => (person.name, person.age),numPartitions = 1)
-    (Ordering.Tuple2(Ordering.String, Ordering.Int), ClassTag(classOf[(String, Int)]))
-
+    val result: RDD[Person] = rdd.sortBy(person => (person.name, person.age),numPartitions = 1)(Ordering.Tuple2(Ordering.String, Ordering.Int), ClassTag(classOf[(String, Int)]))
     result.saveAsTextFile("output")
   }
 

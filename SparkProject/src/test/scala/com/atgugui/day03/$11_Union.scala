@@ -48,7 +48,7 @@ class $11_Union {
     val rdd = sc.makeRDD(List(1, 2, 3, 4),2)
     val rdd1 = sc.makeRDD(List(4,5,6),2)
     val rdd3 = rdd.union(rdd1)
-    rdd3.saveAsTextFile("output")
+    println(rdd3.collect().mkString(","))
   }
 
 }
