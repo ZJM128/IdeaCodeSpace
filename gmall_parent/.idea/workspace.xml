@@ -1,0 +1,477 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:maven" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:maven" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:SparkCode" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:maven" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:SparkProject" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:maven" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:SparkSql" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:maven" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:scalaProject" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c88aacd9-0e50-4724-9450-5c3402b872cc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__com_alibaba_druid_1_1_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__com_google_protobuf_protobuf_java_3_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__mysql_mysql_connector_java_8_0_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_apache_hadoop_hadoop_yarn_server_web_proxy_2_7_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_apache_kylin_kylin_jdbc_3_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_apache_spark_spark_streaming_kafka_0_10_2_12_3_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_apache_spark_spark_token_provider_kafka_0_10_2_12_3_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_apache_spark_spark_yarn_2_12_3_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_7_21.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_21.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyKyLin/MyKyLin.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyKyLin/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyKyLin/src/main/java/com/atguigu/KylinTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Myhive/src/main/java/com/atguigu/udtf/ExplodeJsonArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Myhive/src/main/java/com/atguigu/udtf/ExplodeJsonArray01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SparkCode/src/main/resources/project.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SparkCode/src/main/scala/com/atguigu/application/GetBlackNameAppReview.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SparkCode/src/main/scala/com/atguigu/application/GetDayAndAreaAndCityFlowApp.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SparkCode/src/main/scala/com/atguigu/application/GetOneHourDataAppReview.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SparkCode/src/main/scala/com/atguigu/controller/GetBlackNameController.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SparkCode/src/main/scala/com/atguigu/controller/GetDayAndAreaAndCityFlowController.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SparkCode/src/main/scala/com/atguigu/controller/GetOneHourDataController.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SparkCode/src/main/scala/com/atguigu/dao/GetBlackNameDao.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SparkCode/src/main/scala/com/atguigu/dao/GetDayAndAreaAndCityFlowDao.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SparkCode/src/main/scala/com/atguigu/dao/GetOneHourDataDao.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SparkCode/src/main/scala/com/atguigu/service/GetBlackNameService.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SparkCode/src/main/scala/com/atguigu/service/GetDayAndAreaAndCityFlowByMysqlService.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SparkCode/src/main/scala/com/atguigu/service/GetDayAndAreaAndCityFlowService.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SparkCode/src/main/scala/com/atguigu/service/GetOneHourDataService.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SparkCode/src/main/scala/com/atguigu/util/DataToBeanUtil.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SparkCode/src/main/scala/com/atguigu/util/GetDStreamFromKafkaUtil.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SparkCode/src/main/scala/summerframework/bean/AdsInfo.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SparkCode/src/main/scala/summerframework/bean/CityInfo.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SparkCode/src/main/scala/summerframework/util/JDBCUtil.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SparkCode/src/main/scala/summerframework/util/MockRealtimeData.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SparkCode/src/main/scala/summerframework/util/RandomNumUtil.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SparkCode/src/main/scala/summerframework/util/RandomOptions.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SparkProject/checkPoint/82e0445c-acdb-4463-ba70-547f6a19d679/rdd-8/.part-00000.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SparkProject/checkPoint/82e0445c-acdb-4463-ba70-547f6a19d679/rdd-8/.part-00001.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SparkProject/checkPoint/82e0445c-acdb-4463-ba70-547f6a19d679/rdd-8/part-00000" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SparkProject/checkPoint/82e0445c-acdb-4463-ba70-547f6a19d679/rdd-8/part-00001" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SparkStreaning/src/main/resources/project.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SparkStreaning/src/main/scala/com/atguigu/day01/$02_StreamingQueueDstream.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SparkStreaning/src/main/scala/com/atguigu/day01/$03_CustomReceiver.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SparkStreaning/src/main/scala/com/atguigu/day01/$04_KafkaDirectModeTest.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SparkStreaning/src/main/scala/com/atguigu/day01/$05_KafkaDirectModeCKTest.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SparkStreaning/src/main/scala/com/atguigu/day01/$06_KafkaDirectModeManunal.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SparkStreaning/src/main/scala/com/atguigu/day01/DaemonThreadTest.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SparkStreaning/src/main/scala/com/atguigu/day01/Test.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SparkStreaning/src/main/scala/com/atguigu/day02/$01_Join.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SparkStreaning/src/main/scala/com/atguigu/day02/$02_StopGracefully.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SparkStreaning/src/main/scala/com/atguigu/day02/$03_ForeachRDD.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SparkStreaning/src/main/scala/com/atguigu/day02/$04_Transform.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SparkStreaning/src/main/scala/com/atguigu/day02/$05_UpdateStateByKey.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SparkStreaning/src/main/scala/com/atguigu/day02/$06_ReduceByKeyAndWindow.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SparkStreaning/src/main/scala/com/atguigu/day02/$07_ReduceByKeyAndWindow.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SparkStreaning/src/main/scala/com/atguigu/day02/$08_Window.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SparkStreaning/src/main/scala/com/atguigu/streaming/app/BaseApp.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SparkStreaning/src/main/scala/com/atguigu/streaming/app/Function1AppTest.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SparkStreaning/src/main/scala/com/atguigu/streaming/app/Function2AppTest.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SparkStreaning/src/main/scala/com/atguigu/streaming/app/Function3AppTest.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SparkStreaning/src/main/scala/com/atguigu/streaming/beans/AdsInfo.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SparkStreaning/src/main/scala/com/atguigu/streaming/beans/CityInfo.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SparkStreaning/src/main/scala/com/atguigu/streaming/utils/GetDStreamFromKafkaUtil.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SparkStreaning/src/main/scala/com/atguigu/streaming/utils/JDBCUtil.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SparkStreaning/src/main/scala/com/atguigu/streaming/utils/MockRealtimeData.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SparkStreaning/src/main/scala/com/atguigu/streaming/utils/PropertiesUtil.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SparkStreaning/src/main/scala/com/atguigu/streaming/utils/RandomNumUtil.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SparkStreaning/src/main/scala/com/atguigu/streaming/utils/RandomOptions.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-logger/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-logger/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-logger/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-logger/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-logger/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-logger/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-logger/src/main/java/com/guigu/gmall/gmalllogger/GmallLoggerApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-logger/src/main/java/com/guigu/gmall/gmalllogger/controll/LoggerController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-logger/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-logger/src/main/resources/logback.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-logger/src/test/java/com/guigu/gmall/gmalllogger/GmallLoggerApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-realtime/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-realtime/src/main/resources/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-realtime/src/main/resources/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-realtime/src/main/scala/com/atguigu/gmall/realtime/app/DauApp.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-realtime/src/main/scala/com/atguigu/gmall/realtime/bean/StartupLog.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-realtime/src/main/scala/com/atguigu/gmall/realtime/util/ConfigUtil.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-realtime/src/main/scala/com/atguigu/gmall/realtime/util/MyKafkaUtil.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-realtime/src/main/scala/com/atguigu/gmall/realtime/util/RedisUtil.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-realtime/target/classes/com/atguigu/gmall/realtime/app/DauApp$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-realtime/target/classes/com/atguigu/gmall/realtime/app/DauApp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-realtime/target/classes/com/atguigu/gmall/realtime/bean/StartupLog$StartupLog$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-realtime/target/classes/com/atguigu/gmall/realtime/bean/StartupLog$StartupLog.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-realtime/target/classes/com/atguigu/gmall/realtime/bean/StartupLog.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-realtime/target/classes/com/atguigu/gmall/realtime/util/ConfigUtil$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-realtime/target/classes/com/atguigu/gmall/realtime/util/ConfigUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-realtime/target/classes/com/atguigu/gmall/realtime/util/MyKafkaUtil$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-realtime/target/classes/com/atguigu/gmall/realtime/util/MyKafkaUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-realtime/target/classes/com/atguigu/gmall/realtime/util/RedisUtil$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-realtime/target/classes/com/atguigu/gmall/realtime/util/RedisUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-realtime/target/classes/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-realtime/target/classes/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall_parent.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jvmCode/out/production/IdeaCodeSpace/gmall_parent/gmall_parent.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scalaProject/src/main/scala/com/atguigu/Day06/Test02.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scalaProject/src/main/scala/com/atguigu/Day06/test01.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/sqldialects.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/sqldialects.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Myhive/target/UDFProject-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../Myhive/target/UDFProject-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Myhive/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../Myhive/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Myhive/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../Myhive/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Myhive/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../Myhive/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkCode/SparkCode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkCode/SparkCode.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkCode/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkCode/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkCode/src/main/scala/summerframework/code/Application.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkCode/src/main/scala/summerframework/code/Application.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkCode/src/main/scala/summerframework/util/EnvUtils.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkCode/src/main/scala/summerframework/util/EnvUtils.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkCode/src/main/scala/summerframework/util/PropertiesUtil.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkCode/src/main/scala/summerframework/util/PropertiesUtil.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkCode/target/classes/summerframework/code/Application.class" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkCode/target/classes/summerframework/code/Application.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkCode/target/classes/summerframework/util/EnvUtils$.class" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkCode/target/classes/summerframework/util/EnvUtils$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkCode/target/classes/summerframework/util/EnvUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkCode/target/classes/summerframework/util/EnvUtils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkCode/target/classes/summerframework/util/PropertiesUtil$.class" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkCode/target/classes/summerframework/util/PropertiesUtil$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkCode/target/classes/summerframework/util/PropertiesUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkCode/target/classes/summerframework/util/PropertiesUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkProject/output/._SUCCESS.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkProject/output/.part-00000.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkProject/output/_SUCCESS" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkProject/output/part-00000" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkProject/src/test/java/com/atguigu/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkProject/src/test/java/com/atguigu/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkProject/src/test/scala/com/atgugui/day03/$08_SortBy.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkProject/src/test/scala/com/atgugui/day03/$08_SortBy.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkProject/src/test/scala/com/atgugui/day03/$11_Union.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkProject/src/test/scala/com/atgugui/day03/$11_Union.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkProject/src/test/scala/com/atgugui/day04/$01_PartitionBy.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkProject/src/test/scala/com/atgugui/day04/$01_PartitionBy.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkProject/src/test/scala/com/atgugui/day04/$04_GroupByKey.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkProject/src/test/scala/com/atgugui/day04/$04_GroupByKey.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkProject/src/test/scala/com/atgugui/day04/$13_Serializable.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkProject/src/test/scala/com/atgugui/day04/$13_Serializable.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkProject/src/test/scala/com/atgugui/day04/$9_Join.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkProject/src/test/scala/com/atgugui/day04/$9_Join.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkProject/src/test/scala/com/atgugui/day05/$04_CheckPoint.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkProject/src/test/scala/com/atgugui/day05/$04_CheckPoint.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkProject/src/test/scala/com/atgugui/day05/$05_BroadCastAndACC.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkProject/src/test/scala/com/atgugui/day05/$05_BroadCastAndACC.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkProject/target/test-classes/com/atgugui/day03/$08_SortBy.class" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkProject/target/test-classes/com/atgugui/day03/$08_SortBy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkProject/target/test-classes/com/atgugui/day03/$11_Union.class" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkProject/target/test-classes/com/atgugui/day03/$11_Union.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkProject/target/test-classes/com/atgugui/day04/$04_GroupByKey.class" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkProject/target/test-classes/com/atgugui/day04/$04_GroupByKey.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkProject/target/test-classes/com/atgugui/day04/$9_Join.class" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkProject/target/test-classes/com/atgugui/day04/$9_Join.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkProject/target/test-classes/com/atgugui/day05/$04_CheckPoint.class" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkProject/target/test-classes/com/atgugui/day05/$04_CheckPoint.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkProject/target/test-classes/com/atguigu/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkProject/target/test-classes/com/atguigu/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkSql/SparkSql.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkSql/SparkSql.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkSql/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkSql/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkSql/src/main/scala/com/atguigu/day01/$03_DefineUDFFun.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkSql/src/main/scala/com/atguigu/day01/$03_DefineUDFFun.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkSql/src/main/scala/com/atguigu/day01/$04_DeFineUDAFFun.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkSql/src/main/scala/com/atguigu/day01/$04_DeFineUDAFFun.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkSql/src/main/scala/com/atguigu/day02/$01_ReadAndWriterJson.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkSql/src/main/scala/com/atguigu/day02/$01_ReadAndWriterJson.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkSql/src/main/scala/com/atguigu/day02/$03_ReadAndWriterJDBC.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkSql/src/main/scala/com/atguigu/day02/$03_ReadAndWriterJDBC.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkSql/target/classes/com/atguigu/day01/$03_DefineUDFFun$$typecreator5$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkSql/target/classes/com/atguigu/day01/$03_DefineUDFFun$$typecreator5$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkSql/target/classes/com/atguigu/day01/$03_DefineUDFFun.class" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkSql/target/classes/com/atguigu/day01/$03_DefineUDFFun.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkSql/target/classes/com/atguigu/day01/$04_DeFineUDAFFun.class" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkSql/target/classes/com/atguigu/day01/$04_DeFineUDAFFun.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkSql/target/classes/com/atguigu/day01/MyAvg$$typecreator1$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkSql/target/classes/com/atguigu/day01/MyAvg$$typecreator1$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkSql/target/classes/com/atguigu/day01/MyAvg.class" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkSql/target/classes/com/atguigu/day01/MyAvg.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkSql/target/classes/com/atguigu/day01/MyBuf$.class" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkSql/target/classes/com/atguigu/day01/MyBuf$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkSql/target/classes/com/atguigu/day01/MyBuf.class" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkSql/target/classes/com/atguigu/day01/MyBuf.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkSql/target/classes/com/atguigu/day01/MySum.class" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkSql/target/classes/com/atguigu/day01/MySum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkSql/target/classes/com/atguigu/day01/person$.class" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkSql/target/classes/com/atguigu/day01/person$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkSql/target/classes/com/atguigu/day01/person.class" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkSql/target/classes/com/atguigu/day01/person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkSql/target/classes/com/atguigu/day02/$01_ReadAndWriterJson$$typecreator5$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkSql/target/classes/com/atguigu/day02/$01_ReadAndWriterJson$$typecreator5$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkSql/target/classes/com/atguigu/day02/$01_ReadAndWriterJson$$typecreator5$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkSql/target/classes/com/atguigu/day02/$01_ReadAndWriterJson$$typecreator5$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkSql/target/classes/com/atguigu/day02/$01_ReadAndWriterJson.class" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkSql/target/classes/com/atguigu/day02/$01_ReadAndWriterJson.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkSql/target/classes/com/atguigu/day02/$03_ReadAndWriterJDBC.class" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkSql/target/classes/com/atguigu/day02/$03_ReadAndWriterJDBC.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkSql/target/classes/com/atguigu/day02/Student$.class" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkSql/target/classes/com/atguigu/day02/Student$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkSql/target/classes/com/atguigu/day02/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkSql/target/classes/com/atguigu/day02/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkStreaning/SparkStreaning.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkStreaning/SparkStreaning.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkStreaning/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkStreaning/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkStreaning/src/main/scala/com/atguigu/day01/$01_SparkStreamingWordCount.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkStreaning/src/main/scala/com/atguigu/day01/$01_SparkStreamingWordCount.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkStreaning/target/classes/com/atguigu/day01/$01_SparkStreamingWordCount$.class" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkStreaning/target/classes/com/atguigu/day01/$01_SparkStreamingWordCount$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SparkStreaning/target/classes/com/atguigu/day01/$01_SparkStreamingWordCount.class" beforeDir="false" afterPath="$PROJECT_DIR$/../SparkStreaning/target/classes/com/atguigu/day01/$01_SparkStreamingWordCount.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../input/Top10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../input/person.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../input/user_visit_action.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jvmCode/out/production/IdeaCodeSpace/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../jvmCode/out/production/IdeaCodeSpace/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jvmCode/out/production/IdeaCodeSpace/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../jvmCode/out/production/IdeaCodeSpace/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jvmCode/out/production/IdeaCodeSpace/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../jvmCode/out/production/IdeaCodeSpace/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jvmCode/out/production/IdeaCodeSpace/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../jvmCode/out/production/IdeaCodeSpace/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jvmCode/out/production/IdeaCodeSpace/.idea/sqldialects.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../jvmCode/out/production/IdeaCodeSpace/.idea/sqldialects.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jvmCode/out/production/IdeaCodeSpace/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../jvmCode/out/production/IdeaCodeSpace/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jvmCode/out/production/IdeaCodeSpace/input/Top10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jvmCode/out/production/IdeaCodeSpace/input/person.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jvmCode/out/production/IdeaCodeSpace/input/user_visit_action.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jvmCode/out/production/IdeaCodeSpace/output/._SUCCESS.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jvmCode/out/production/IdeaCodeSpace/output/.part-00000.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jvmCode/out/production/IdeaCodeSpace/output/_SUCCESS" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jvmCode/out/production/IdeaCodeSpace/output/part-00000" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../output/._SUCCESS.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../output/.part-00000.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../output/_SUCCESS" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../output/part-00000" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\software\repository" />
+        <option name="mavenHome" value="E:\software\apache-maven-3.5.4" />
+        <option name="userSettingsFile" value="E:\software\apache-maven-3.5.4\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1iNB76u3nKsYHzdB1zcVwVnSOdR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="ToolWindowCommit.ShowToolbar" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/gmall-logger/src/main/java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/gmall-logger/pom.xml" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.37471265" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="RunManager" selected="Application.DauApp">
+    <configuration name="DauApp" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.gmall.realtime.app.DauApp" />
+      <module name="gmall-realtime" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.gmall.realtime.app.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GmallLoggerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gmall-logger" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.guigu.gmall.gmalllogger.GmallLoggerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DauApp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c88aacd9-0e50-4724-9450-5c3402b872cc" name="Default Changelist" comment="" />
+      <created>1601738001877</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601738001877</updated>
+      <workItem from="1601738003527" duration="349000" />
+      <workItem from="1601738388035" duration="516000" />
+      <workItem from="1601738921817" duration="3312000" />
+      <workItem from="1601742251221" duration="994000" />
+      <workItem from="1601773258608" duration="8710000" />
+      <workItem from="1601865337783" duration="815000" />
+      <workItem from="1602236082951" duration="2015000" />
+      <workItem from="1602299249934" duration="413000" />
+      <workItem from="1602299676086" duration="644000" />
+      <workItem from="1602300332578" duration="338000" />
+      <workItem from="1602300684526" duration="1924000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1010" y="107" key="#Project_Structure" timestamp="1601778092310">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="1010" y="107" key="#Project_Structure/0.0.2048.1112@0.0.2048.1112" timestamp="1601778092310" />
+    <state x="1090" y="232" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1601782326354">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="1090" y="232" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.2048.1112@0.0.2048.1112" timestamp="1601782326354" />
+    <state x="549" y="32" key="CommitChangelistDialog2" timestamp="1602301417583">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="549" y="32" key="CommitChangelistDialog2/0.0.2048.1112@0.0.2048.1112" timestamp="1602301417583" />
+    <state x="1251" y="384" key="FileChooserDialogImpl" timestamp="1601739453350">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="1251" y="384" key="FileChooserDialogImpl/0.0.2048.1112@0.0.2048.1112" timestamp="1601739453350" />
+    <state x="864" y="459" width="319" height="267" key="Gitee.ShareDialog" timestamp="1602301559980">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="864" y="459" width="319" height="267" key="Gitee.ShareDialog/0.0.2048.1112@0.0.2048.1112" timestamp="1602301559980" />
+    <state x="536" y="402" width="274" height="273" key="Github.ShareDialog" timestamp="1602300224538">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="536" y="402" width="274" height="273" key="Github.ShareDialog/0.0.2048.1112@0.0.2048.1112" timestamp="1602300224538" />
+    <state width="1160" height="201" key="GridCell.Tab.0.bottom" timestamp="1601824436350">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1160" height="201" key="GridCell.Tab.0.bottom/0.0.2048.1112@0.0.2048.1112" timestamp="1601824436350" />
+    <state width="1160" height="201" key="GridCell.Tab.0.center" timestamp="1601824436350">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1160" height="201" key="GridCell.Tab.0.center/0.0.2048.1112@0.0.2048.1112" timestamp="1601824436350" />
+    <state width="1160" height="201" key="GridCell.Tab.0.left" timestamp="1601824436350">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1160" height="201" key="GridCell.Tab.0.left/0.0.2048.1112@0.0.2048.1112" timestamp="1601824436350" />
+    <state width="1160" height="201" key="GridCell.Tab.0.right" timestamp="1601824436350">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1160" height="201" key="GridCell.Tab.0.right/0.0.2048.1112@0.0.2048.1112" timestamp="1601824436350" />
+    <state width="1326" height="388" key="GridCell.Tab.1.bottom" timestamp="1601774454962">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1326" height="388" key="GridCell.Tab.1.bottom/0.0.2048.1112@0.0.2048.1112" timestamp="1601774454962" />
+    <state width="1326" height="388" key="GridCell.Tab.1.center" timestamp="1601774454962">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1326" height="388" key="GridCell.Tab.1.center/0.0.2048.1112@0.0.2048.1112" timestamp="1601774454962" />
+    <state width="1326" height="388" key="GridCell.Tab.1.left" timestamp="1601774454962">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1326" height="388" key="GridCell.Tab.1.left/0.0.2048.1112@0.0.2048.1112" timestamp="1601774454962" />
+    <state width="1326" height="388" key="GridCell.Tab.1.right" timestamp="1601774454962">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1326" height="388" key="GridCell.Tab.1.right/0.0.2048.1112@0.0.2048.1112" timestamp="1601774454962" />
+    <state x="888" y="205" key="Maven.ArtifactSearchDialog" timestamp="1601741932927">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="888" y="205" key="Maven.ArtifactSearchDialog/0.0.2048.1112@0.0.2048.1112" timestamp="1601741932927" />
+    <state x="746" y="175" key="RollbackChangesDialog" timestamp="1602303458964">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="746" y="175" key="RollbackChangesDialog/0.0.2048.1112@0.0.2048.1112" timestamp="1602303458964" />
+    <state x="618" y="186" key="SettingsEditor" timestamp="1602301236204">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="618" y="186" key="SettingsEditor/0.0.2048.1112@0.0.2048.1112" timestamp="1602301236204" />
+    <state x="617" y="285" key="Vcs.Push.Dialog.v2" timestamp="1602301680958">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="617" y="285" key="Vcs.Push.Dialog.v2/0.0.2048.1112@0.0.2048.1112" timestamp="1602301680958" />
+    <state x="821" y="334" key="chooseDestDirectoryDialog" timestamp="1601739622068">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="821" y="334" key="chooseDestDirectoryDialog/0.0.2048.1112@0.0.2048.1112" timestamp="1601739622068" />
+    <state x="743" y="153" width="1194" height="797" key="new project wizard" timestamp="1601778171490">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="743" y="153" width="1194" height="797" key="new project wizard/0.0.2048.1112@0.0.2048.1112" timestamp="1601778171490" />
+  </component>
+</project>
